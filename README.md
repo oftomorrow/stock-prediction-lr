@@ -8,7 +8,7 @@ Installation
 
 ####Download the data
 
-1. Run `stock-prediction`.
+1. Run `mkdir stock-prediction`.
 2. Get into the folder using `cd stock-prediction`.
 3. Clone this repo to your computer.
 4. Run `mkdir data`.
