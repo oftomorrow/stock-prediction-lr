@@ -8,14 +8,15 @@ Installation
 
 ####Download the data
 
-1. Clone this repo to your computer.
+1. Run `stock-prediction`.
 2. Get into the folder using `cd stock-prediction`.
-3. Run `mkdir data`.
-4. Switch into the data directory using `cd data`.
-5. Download the data files from [Google Finance](https://www.google.com/finance) into the data directory.
+3. Clone this repo to your computer.
+4. Run `mkdir data`.
+5. Switch into the data directory using `cd data`.
+6. Download the data files from [Google Finance](https://www.google.com/finance) into the data directory.
   * It's recommended to download all the data from first date to last.
   * Change `DATA_FILENAME` variable to your data file name in `settings.py`.
-6. Switch back into the stock-prediction directory using `cd ..`.
+7. Switch back into the stock-prediction directory using `cd ..`.
 
 ####Install the requirements
 
