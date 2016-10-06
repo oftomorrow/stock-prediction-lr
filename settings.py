@@ -1,0 +1,5 @@
+DATA_DIR = "data"
+PROCESSED_DIR = "processed"
+DATA_FILENAME = "fb.csv"
+PROCESSED_X = "trainX.csv"
+PROCESSED_Y = "trainY.csv"
